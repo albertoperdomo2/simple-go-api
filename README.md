@@ -18,7 +18,7 @@ The **functional requisites** that this API meets are:
 
 To run this sever in localhost:8080, you will need to declare the *ADMIN_PASSWORD* environment variable, so e.g.:
 ```bash 
-ADMIN_PASSWORD=secret go run go-restAPI.go
+ADMIN_PASSWORD=secret go run api.go
 ```
 
 You can test out the API using the following example command lines: 
