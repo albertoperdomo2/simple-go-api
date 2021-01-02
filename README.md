@@ -1,7 +1,7 @@
 # Golang API
 ## A simple Golang API for learning purposes. 
 
-With this project, what I am trying to learn is how API's works and how to efficiently design (a very basic) one. It is an extremely simple API with just a few endpoints, which I'll take as a base point to develop more complex projects. 
+With this project, what I am trying to learn is how API's works and how to efficiently design (a very basic) one. It is an extremely simple API with just a few endpoints, which I'll take as a base point to develop more complex projects. In this case, I didn't use any external dependencies such as Gorilla mux. 
 
 At the moment, this API does not have any type of DB interaction, but next step in the process would be to add PostgreSQL as backend service for this API. So, it is initialized empty. 
 
